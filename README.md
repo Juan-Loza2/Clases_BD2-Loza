@@ -2,6 +2,12 @@
 
 Clases de Base de Datos 2
 
+Profesores:Juan Frattin-Teodoro Reyna
+
+Alumnos:Loza Juan
+
 ## Clases
 
-- [`clase_dos.md`](./clase_dos.md) - Documento con información adicional.
+- [`Clase Dos`](./clase2.sql) 
+- [`Clase Tres`](./Clase3.sql)
+- [`Clase Cuatro`](./Clase4.sql)
