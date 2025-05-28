@@ -13,3 +13,4 @@ Alumnos:Loza Juan
 - [`Clase Cuatro`](./Clase4.sql)
 - [`Clase seis`](./Clase6.sql)
 - [`Clase Siete`](./Clase7.sql)
+- [`Clase Nueve`](./Clase9.sql)
