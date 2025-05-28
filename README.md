@@ -9,8 +9,7 @@ Alumnos:Loza Juan
 ## Clases
 
 - [`Clase Dos`](./clase2.sql) 
-<<<<<<< HEAD
-=======
 - [`Clase Tres`](./Clase3.sql)
 - [`Clase Cuatro`](./Clase4.sql)
->>>>>>> 1eec342 (subo clase 4 atrasada y clase6)
+- [`Clase seis`](./Clase6.sql)
+- [`Clase Siete`](./Clase7.sql)
