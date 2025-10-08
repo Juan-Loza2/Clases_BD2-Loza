@@ -19,3 +19,4 @@ Alumnos:Loza Juan
 - [`Clase Quince`](./clase15.sql)
 - [`Clase Dieciseis`](./Clase16.sql)
 - [`Clase Diecisiete`](./clase17.sql)
+- [`Clase Dieciocho`](./Clase18.sql)
